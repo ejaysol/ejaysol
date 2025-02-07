@@ -23,7 +23,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+>"Never Stop Exploring"
 
 ---
 ⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
